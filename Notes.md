@@ -21,4 +21,11 @@ Steps followed :
 - to see the menu use usestate hook
 
 4. Authentication using clerk
-- we'll wite our own middleware
+- we'll wite our own middleware  
+- add env file for writing secret code and add it in git ignore
+- middleware file in src folder
+- add clerkprovider in layouts
+- add its components in navbar
+- add spinner in clerkloading
+- add sign up, in in app folder , code frm clerk database
+- add urls in env file
