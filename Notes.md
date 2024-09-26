@@ -29,3 +29,19 @@ Steps followed :
 - add spinner in clerkloading
 - add sign up, in in app folder , code frm clerk database
 - add urls in env file
+
+5. Homepage: app/page.tsx
+- Components in components folder
+- add domains for external images in next.config.mjs
+- add stories
+- add posts
+- add feed
+- post
+- comments
+
+
+
+
+
+
+-- Akshat Sharma
