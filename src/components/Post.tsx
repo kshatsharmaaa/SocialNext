@@ -7,15 +7,15 @@ const Post = () => {
         {/* USER  */}
         <div className="flex items-center justify-between">
             <div className="flex items-center gap-4">
-                <Image src="" alt="" width={40} height={40} className="w-10 h-10 rounded-full"/>
-                <span className="font-medium">Tywin Lanister</span>
+                <Image src="/tywin1.jpeg" alt="" width={40} height={40} className="w-10 h-10 rounded-full"/>
+                <span className="font-medium">Tywin Lannister</span>
             </div>
             <Image src="/more.png" alt="" width={16} height={16}/>
         </div>
         {/* DESCRIPTION  */}
         <div className="flex flex-col gap-4">
             <div className="w-full min-h-96 relative">
-            <Image src="/" alt="" fill className="object-cover rounded-md"/>
+            <Image src="/tywin2.jpeg" alt="" fill className="object-cover rounded-md"/>
             </div>
             <p>And what do they say of Robb Stark in the north?</p>
         </div>
