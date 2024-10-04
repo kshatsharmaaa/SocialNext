@@ -7,27 +7,27 @@ const Stories = () => {
 
             <div className="flex flex-col items-center gap-2 cursor-pointer">
                 <Image src="/eddardstark.jpeg" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-                <span className="font-medium">Eddard</span>
+                <span className="font-medium">Your Story</span>
             </div>
             
             <div className="flex flex-col items-center gap-2 cursor-pointer">
-                <Image src="/eddardstark.jpeg" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-                <span className="font-medium">Eddard</span>
+                <Image src="/aryastark.jpeg" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
+                <span className="font-medium">Arya</span>
             </div>
             
             <div className="flex flex-col items-center gap-2 cursor-pointer">
-                <Image src="/eddardstark.jpeg" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-                <span className="font-medium">Eddard</span>
+                <Image src="/tywin1.jpeg" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
+                <span className="font-medium">Tywin</span>
             </div>
             
             <div className="flex flex-col items-center gap-2 cursor-pointer">
-                <Image src="/eddardstark.jpeg" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-                <span className="font-medium">Eddard</span>
+                <Image src="/mergery.jpeg" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
+                <span className="font-medium">Margery</span>
             </div>
             
             <div className="flex flex-col items-center gap-2 cursor-pointer">
-                <Image src="/eddardstark.jpeg" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
-                <span className="font-medium">Eddard</span>
+                <Image src="/RobbertBaratheon.jpeg" alt="" width={80} height={80} className="w-20 h-20 rounded-full ring-2"/>
+                <span className="font-medium">Robbert</span>
             </div>
             
             <div className="flex flex-col items-center gap-2 cursor-pointer">
