@@ -39,6 +39,8 @@ Steps followed :
 - post
 - comments
 
+6. Right Menu
+- type of page as a prop
 
 
 
